@@ -1,8 +1,6 @@
-# KareemSchultz
-A collection of homelab projects, scripts, and configurations covering networking, cloud, automation, and more.
-
 # Kareem Schultz's Homelab Projects
 
+A collection of homelab projects, scripts, and configurations covering networking, cloud, automation, and more.
 Welcome to my tech playground! This repository is a collection of various projects, scripts, and configurations from my homelab and professional experiments. As a network engineer with a passion for cloud architecture and emerging technologies, I use this space to share my experiences and learnings.
 
 ## 🚀 Featured Projects
